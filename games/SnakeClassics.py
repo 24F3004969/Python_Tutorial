@@ -1,8 +1,8 @@
-import random
 import threading
 import time
 from queue import Queue
 from sys import argv
+import random
 
 from pynput import keyboard
 
